@@ -28,8 +28,8 @@ Se busca crear una pagina relacionada a un restaurante, editandola y utilizando 
 
 ## Instrucciones para Clonar y Ejecutar el Proyecto
 
-Copiamos el link: https://github.com/Juan-Zambrano5/Trabajo_Final.git
-Entramos a Visual Studio Code e ingresamos el codigo gitu clone https://github.com/Juan-Zambrano5/Trabajo_Final.git
+- **Copiamos el link: https://github.com/Juan-Zambrano5/Trabajo_Final.git**
+- **Entramos a Visual Studio Code e ingresamos el codigo gitu clone https://github.com/Juan-Zambrano5/Trabajo_Final.git**
 
 ### Requisitos Previos
 
