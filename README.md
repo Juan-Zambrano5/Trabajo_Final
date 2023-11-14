@@ -6,7 +6,7 @@
 
 ## Propósito del Sitio
 
-Se busca crear una pagina relacionada a un restaurante, editandola y utilizando html
+El sitio web del Restaurante Savor your Cravings ha sido desarrollado con el objetivo de poder brindarles a los clientes una experiencia fácil y agradable al momento de inspeccionar el menu y poder realizar una reservación. Con un diseño atractivo y funcionalidades intuitivas, el sitio busca mejorar la visibilidad y accesibilidad del restaurante en línea
 
 ---
 
@@ -28,9 +28,6 @@ Se busca crear una pagina relacionada a un restaurante, editandola y utilizando 
 
 ## Instrucciones para Clonar y Ejecutar el Proyecto
 
-- **Copiamos el link: https://github.com/Juan-Zambrano5/Trabajo_Final.git**
-- **Entramos a Visual Studio Code e ingresamos el codigo gitu clone https://github.com/Juan-Zambrano5/Trabajo_Final.git**
-
 ### Requisitos Previos
 
 - Navegador web (como Chrome o Firefox)
@@ -41,3 +38,7 @@ Se busca crear una pagina relacionada a un restaurante, editandola y utilizando 
 
    ```bash
    git clone https://github.com/Juan-Zambrano5/Trabajo_Final.git
+
+2. Abre el archivo "index.html" en tu navegador preferido.
+
+3. Explora el sitio web y disfruta de la experiencia de navegación.
